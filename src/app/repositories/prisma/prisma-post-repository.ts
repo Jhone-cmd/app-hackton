@@ -1,4 +1,4 @@
-import { PostRepository } from "@/app/interfaces/post-interface";
+import { PostRepository } from "@/app/interfaces/post-interfaces";
 import { Prisma } from "@prisma/client";
 import { prisma } from "@/app/lib/prisma";
 
